@@ -1,0 +1,59 @@
+[
+  {
+    "order_id": 201,
+    "customer_id": 101,
+    "order_date": "2026-06-01",
+    "amount": 250.50,
+    "items": [
+      {"item_name": "Wireless Mouse", "price": 50.50},
+      {"item_name": "Mechanical Keyboard", "price": 200.00}
+    ],
+    "shipping": {
+      "address": "123 Tech Lane",
+      "city": "Bangalore",
+      "pincode": "560001"
+    }
+  },
+  {
+    "order_id": 202,
+    "customer_id": 103,
+    "order_date": "2026-06-02",
+    "amount": 120.00,
+    "items": [
+      {"item_name": "Monitor Stand", "price": 120.00}
+    ],
+    "shipping": {
+      "address": "456 Silicon Road",
+      "city": "Bangalore",
+      "pincode": "560103"
+    }
+  },
+  {
+    "order_id": 203,
+    "customer_id": 104,
+    "order_date": "2026-06-03",
+    "amount": 45.00,
+    "items": [
+      {"item_name": "USB Hub", "price": 45.00}
+    ],
+    "shipping": {
+      "address": "789 Marina Drive",
+      "city": "Mumbai",
+      "pincode": "400001"
+    }
+  },
+  {
+    "order_id": 204,
+    "customer_id": 101,
+    "order_date": "2026-06-04",
+    "amount": 85.00,
+    "items": [
+      {"item_name": "Laptop Stand", "price": 85.00}
+    ],
+    "shipping": {
+      "address": "123 Tech Lane",
+      "city": "Bangalore",
+      "pincode": "560001"
+    }
+  }
+]
