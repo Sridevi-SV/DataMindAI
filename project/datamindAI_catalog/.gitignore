@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ollama
+.ollama/
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+
+# Model Files
+models/
+checkpoints/
+embeddings/
+vectorstore/
+chroma_db/
+chromadb/
+
+# Data Files (optional)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Node Modules (if frontend exists)
+node_modules/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Runtime Files
+*.pid
+*.seed
+
+# Uploaded Files
+uploads/

@@ -1,0 +1,8 @@
+customer_id,name,email,phone,city,segment
+101,John Doe,john.doe@gmail.com,123-456-7890,Bangalore,Premium
+102,Jane Smith,jane.smith@yahoo.com,987-654-3210,Delhi,Standard
+103,Bob Johnson,bob.j@hotmail.com,555-666-7777,Bangalore,Standard
+104,Alice Brown,alice.b@outlook.com,888-999-0000,Mumbai,Premium
+105,Charlie Green,charlie@gmail.com,111-222-3333,Chennai,Basic
+106,David Miller,david@gmail.com,444-555-6666,Bangalore,Standard
+107,Eva White,eva.w@gmail.com,777-888-9999,Delhi,Basic
